@@ -12,4 +12,4 @@ I'm Luiz, a self-taught developer from Brazil who's passionate about mobile and 
   - [**Twitter**](https://www.twitter.com/luiz_rcs/)
 - ⚡ Fun fact: I listen to a lot of music while programming. EDM is my favorite genre, and I find it helps me focus and keep up the rhythm!
 
-[![Luiz Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizrcs&count_private=true&hide=contribs&hide_title=true&layout=compact&show_icons=true&theme=dark&icon_color=58a6ff&hide_border=true&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
+[![Luiz Rodrigo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luizrcs&count_private=true&hide=contribs&hide_title=true&layout=compact&show_icons=true&theme=dark&icon_color=58a6ff&hide_border=true&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
